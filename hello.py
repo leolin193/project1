@@ -1,2 +1,2 @@
 print("hello change")
-print("edited by githut")
+print("edited by github")
